@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+  <!--<![endif]-->
+
+  <head>
+    {{ partial:head }}
+    <link rel="stylesheet" href="{{ theme:css }}" />
+  </head>
+
+  <body class="font-sans text-dark text-lg h-screen bg-tran-yellow">
+    <header>
+      {{ partial:nav }}
+    </header>
+    <div class="container">
+      {{ template_content }}
+    </div>
+
+    <script src="{{ theme:js }}"></script>
+  </body>
+</html>
