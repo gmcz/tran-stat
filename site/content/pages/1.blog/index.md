@@ -1,5 +1,8 @@
 title: Blog
-fieldset: default
-id: b4f9bf3e-2ada-45ca-a447-75dbb01198bd
-mount: blog
+article_content: '-'
+type: text
+text: '<p>Hi, I’m Justin. These are my articles.<br></p>'
+fieldset: post
 template: blog
+mount: blog
+id: 2327d40e-25fd-462a-872b-a6604e32c771

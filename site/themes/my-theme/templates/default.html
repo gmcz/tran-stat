@@ -1,6 +1,11 @@
-<div class="container">
-    <h1>{{ title }}</h1>
-    <hr/>
-    {{ content }}
+<div class="container px-4 mx-auto">
+  <div class="text-center mt-12">
+    <h1 class="text-4xl md:text-5xl text-white font-semibold font-headline">
+      {{ title | widont }}
+    </h1>
+    {{ content | widont }}
+    <div class="date bg-black text-white p-1 inline-block my-2 text-sm">
+      Published on {{ date }}
+    </div>
+  </div>
 </div>
-

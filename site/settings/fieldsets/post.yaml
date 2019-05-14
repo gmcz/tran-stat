@@ -33,5 +33,16 @@ sections:
         restrict_assets: false
         type: bard
         display: Content
+        sets:
+          image:
+            display: image
+            fields:
+              image:
+                container: main
+                folder: /
+                restrict: false
+                max_files: 1
+                type: assets
+                display: image
 taxonomies: true
 title: Post

@@ -1,16 +1,34 @@
-title: Main Assets
+title: 'Main Assets'
 path: assets
 url: /assets
 assets:
   img/black-bear-cubs.jpg:
-    title: Black Bear Cubs
-    alt: Some black bears standing up
+    title: 'Black Bear Cubs'
+    alt: 'Some black bears standing up'
   img/coffee-mug.jpg:
-    title: Coffee Mug
+    title: 'Coffee Mug'
   img/me.jpg:
     title: Me
-    alt: Niles Peppertrout
+    alt: 'Niles Peppertrout'
   img/redwood-sign.jpg:
-    title: redwood sign
+    title: 'redwood sign'
   img/desert.jpg:
     focus: 77-70
+  collect-email-addresses-on-your-podcast-page.png:
+    title: 'Get more email subscribers from your podcast'
+    alt: 'Get more email subscribers from your podcast'
+  create-automated-podcast-email-mailchimp.png:
+    title: 'Create automated podcast email in MailChimp'
+    alt: 'Create automated podcast email in MailChimp'
+  how-to-find-your-podcast-rss-feed.png:
+    title: 'How to find your podcast''s RSS feed'
+    alt: 'How to find your podcast''s RSS feed'
+  mailchimp-enter-podcast-feed-url.png:
+    title: 'Enter your podcast RSS feed into Mailchimp'
+    alt: 'Enter your podcast RSS feed into Mailchimp'
+  mailchimp-editor-podcast-merge-tags.png:
+    title: 'Enter your RSS merge tags into Mailchimp''s editor'
+    alt: 'Enter your RSS merge tags into Mailchimp''s editor'
+  subscribe-to-email-list.png:
+    title: 'Subscribe to email newsletter on your podcast site'
+    alt: 'Subscribe to email newsletter on your podcast site'
