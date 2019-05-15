@@ -1,9 +1,5 @@
-<div class="container px-4 mx-auto">
-  <div class="text-center mt-12">
-    <h1 class="text-4xl md:text-5xl text-white font-semibold font-headline">
-      {{ title }}
-    </h1>
-    <hr />
-    {{ content }}
-  </div>
+<div class="text-center mt-12">
+  {{ post_content }}
+  {{ partial src="blocks/{type}" }}
+  {{ /post_content }}
 </div>

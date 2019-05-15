@@ -44,5 +44,18 @@ sections:
                 max_files: 1
                 type: assets
                 display: image
+          html_embed:
+            display: 'HTML embed'
+            fields:
+              embed_code:
+                type: textarea
+                display: 'Embed Code'
+          cta:
+            display: CTA
+            fields:
+              section:
+                type: section
+                instructions: 'Your CTA will appear here'
+                display: CTA
 taxonomies: true
 title: Post
