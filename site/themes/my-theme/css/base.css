@@ -60,3 +60,11 @@
   * @import "utilities/background-patterns";
   * @import "utilities/skew-transforms";
   */
+
+/* purgecss start ignore */
+
+article p {
+    @apply mb-4;
+}
+
+/* purgecss end ignore */
